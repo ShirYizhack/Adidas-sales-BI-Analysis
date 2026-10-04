@@ -1,4 +1,4 @@
-\# Adidas Sales BI Analysis
+# Adidas Sales BI Analysis
 
 
 
@@ -6,11 +6,11 @@ Business Intelligence project analyzing Adidas U.S. sales data using Power BI, S
 
 
 
-!\[Dashboard Overview](assets/overview.png)
+![Dashboard Overview](assets/overview.png)
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -26,25 +26,25 @@ Power BI and DAX were used to build an interactive multi-page dashboard covering
 
 
 
-\## Tools \& Technologies
+## Tools \& Technologies
 
 
 
-\- Power BI
+- Power BI
 
-\- DAX
+- DAX
 
-\- SQL Server
+- SQL Server
 
-\- Excel
+- Excel
 
-\- Data Modeling
+- Data Modeling
 
-\- ETL
+- ETL
 
 
 
-\## Dashboard Analysis
+## Dashboard Analysis
 
 
 
@@ -52,85 +52,85 @@ The dashboard includes:
 
 
 
-\- Geographic Sales Analysis
+- Geographic Sales Analysis
 
-\- Profit Analysis
+- Profit Analysis
 
-\- Supply Chain Delay Analysis
+- Supply Chain Delay Analysis
 
-\- Price \& Sales Analysis
+- Price \& Sales Analysis
 
-\- Product Profitability Analysis
+- Product Profitability Analysis
 
-\- Sales Method Analysis
+- Sales Method Analysis
 
-\- Weather Impact Analysis for New Orleans
-
-
-
-\## Key Highlights
+- Weather Impact Analysis for New Orleans
 
 
 
-\- Identified the highest-performing sales regions and products.
-
-\- Compared operating profit across states, products, and years.
-
-\- Analyzed product pricing in relation to units sold.
-
-\- Examined sales performance across Online, Outlet, and In-store channels.
-
-\- Analyzed supply chain delays by city and reason.
-
-\- Integrated weather data to examine delivery delays in New Orleans.
+## Key Highlights
 
 
 
-\## Dashboard Preview
+- Identified the highest-performing sales regions and products.
+
+- Compared operating profit across states, products, and years.
+
+- Analyzed product pricing in relation to units sold.
+
+- Examined sales performance across Online, Outlet, and In-store channels.
+
+- Analyzed supply chain delays by city and reason.
+
+- Integrated weather data to examine delivery delays in New Orleans.
 
 
 
-\### Geographic Sales Analysis
-
-!\[Geographic Sales Analysis](assets/geographic-sales-analysis.png)
+## Dashboard Preview
 
 
 
-\### Product Profitability Analysis
+### Geographic Sales Analysis
 
-!\[Product Profitability Analysis](assets/product-profitability-analysis.png)
-
-
-
-\### Sales Method Analysis
-
-!\[Sales Method Analysis](assets/sales-method-analysis.png)
+![Geographic Sales Analysis](assets/geographic-sales-analysis.png)
 
 
 
-\### Weather Impact Analysis
+### Product Profitability Analysis
 
-!\[Weather Impact Analysis](assets/weather-impact-analysis.png)
-
-
-
-\## Project Structure
+![Product Profitability Analysis](assets/product-profitability-analysis.png)
 
 
 
-\- `dashboard/` – Power BI dashboard file
+### Sales Method Analysis
 
-\- `data/` – Source dataset
-
-\- `sql/` – SQL scripts used for data preparation and modeling
-
-\- `dax/` – DAX code used in the Power BI model
-
-\- `assets/` – Dashboard screenshots
+![Sales Method Analysis](assets/sales-method-analysis.png)
 
 
 
-\## Author
+### Weather Impact Analysis
+
+![Weather Impact Analysis](assets/weather-impact-analysis.png)
+
+
+
+## Project Structure
+
+
+
+- `dashboard/` – Power BI dashboard file
+
+- `data/` – Source dataset
+
+- `sql/` – SQL scripts used for data preparation and modeling
+
+- `dax/` – DAX code used in the Power BI model
+
+- `assets/` – Dashboard screenshots
+
+
+
+## Author
 
 
 
